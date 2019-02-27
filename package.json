@@ -1,7 +1,7 @@
 {
-  "name": "victor-hugo",
+  "name": "north-dearborn-pantry",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
+  "description": "Created from - Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
   "main": "index.js",
   "scripts": {
     "hugo": "gulp hugo",
