@@ -1,6 +1,5 @@
 ---
 title: "Events"
-image: /img/about-jumbotron.jpg
 values:
   - heading: "Event 1"
     text: >
