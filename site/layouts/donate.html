@@ -2,13 +2,9 @@
 
 <div class="mw6 center ph3 pv4">
   <div class="cms mw6">
-    <h2 class="tc">{{ .Title }}</h2>
-    <p class="tc">{{ .Params.Subtitle }}</p>
     {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
     {{ .Content }}
   </div>
 </div>
-
-{{ partial "2-up" .Params }}
 
 {{ end }}

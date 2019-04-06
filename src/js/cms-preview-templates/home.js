@@ -13,7 +13,14 @@ export default class PostPreview extends React.Component {
     }
 
     return <div>
-        <Jumbotron image={image} title={entry.getIn(["data", "title"])} subtitle={entry.getIn(["data", "subtitle"])}/>
+
+        <div class="mw6 center ph3 pv4">
+          <div class="cms mw6">
+            <h2 class="tc">{entry.getIn(["data", "title"])}</h2>
+            <p class="tc small-caps">{entry.getIn(["data", "subtitle"])}</p>
+            { image && <img src={ image } alt={ entry.getIn(["data", "title"])} /> }
+          </div>
+        </div>
 
         <div className="bg-off-white pv4">
           <div className="ph3 mw7 center">
