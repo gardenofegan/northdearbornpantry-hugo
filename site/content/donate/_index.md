@@ -1,6 +1,6 @@
 ---
 title: Donate
-image: /img/about-jumbotron.jpg
+image: /img/scouts.jpg
 ---
 # Donate to the Pantry
 
