@@ -1,6 +1,6 @@
 ---
-title: "How to Help"
-image: /img/about-jumbotron.jpg
+title: How to Help
+image: /img/scouts.jpg
 ---
 **Drivers Needed**    Drivers are needed for our box trucks.  We use these trucks to pick up goods that local businesses have generously donated - no CDL is needed to drive the small truck. We can use more CDL drivers for the large truck.
 
