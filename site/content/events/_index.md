@@ -34,4 +34,4 @@ events:
     imageUrl: /img/sign1.jpg
     text: ' This ongoing fundraiser takes place the 2nd Wednesday of each month at Snappy Tomato in Bright. The pantry receives a percentage of sales and all tips.'
 ---
-There are several events throughout the year that raise money for the North Dearborn Pantry.  This tab is a general timetable. Floow us on Facebook, Twitter, or Instagram for fast updates.
+There are several events throughout the year that raise money for the North Dearborn Pantry.  This tab is a general timetable. Follow us on Facebook, Twitter, or Instagram for fast updates.
