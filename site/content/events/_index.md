@@ -3,7 +3,7 @@ title: Events
 events:
   - heading: BABA Golf Outing at HVL Golf Club
     imageUrl: /img/sign1.jpg
-    text: >-
+    text: >
       The Bright Area Business Association raises money for many local
       not-for-profit organizations. This event is generally held in May.  For
       more info contact https://brightareabusinesses.com/
