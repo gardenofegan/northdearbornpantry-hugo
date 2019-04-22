@@ -1,6 +1,6 @@
 ---
 title: About
-image: /img/scouts.jpg
+image: /img/inside-warehouse.jpg
 ---
 # Pantry Overview
 
