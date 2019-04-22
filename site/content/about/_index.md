@@ -1,6 +1,6 @@
 ---
-title: "About"
-image: /img/about-jumbotron.jpg
+title: About
+image: /img/scouts.jpg
 ---
 # Pantry Overview
 
