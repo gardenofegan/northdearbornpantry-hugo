@@ -2,7 +2,7 @@
 title: Events
 events:
   - heading: BABA Golf Outing at HVL Golf Club
-    imageUrl: /img/sign1.jpg
+    imageUrl: /img/baba-donation-to-dearborn-pantry.jpg
     text: >
       The Bright Area Business Association raises money for many local
       not-for-profit organizations. This event is generally held in May.  For
@@ -25,7 +25,7 @@ events:
       wine, beer, vendors, kid's activities. For more info contact
       https://brightareabusinesses.com  
   - heading: Gobble Wobble 5K- Feeding the Hungry
-    imageUrl: /img/2014_gooble_wobble_034.jpg
+    imageUrl: /img/d390027f-e1c4-4e7c-8c89-223262bf096f.jpg
     text: >-
       All Saints Parish generously coordinates this annual run/walk for the
       Sunman & North Dearborn Food Pantries on Thanksgiving morning. For more
