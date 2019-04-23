@@ -26,7 +26,7 @@ export default class EventsPreview extends React.Component {
       image = window.parent.location.protocol + "//" + window.parent.location.host + image;
     }
     
-    const entryEvents = entry.getIn(["data", "values"]);
+    const entryEvents = entry.getIn(["data", "events"]);
     const events = entryEvents ? entryEvents.toJS() : [];
     
     return <div className="mw6 center ph3 pv4">
