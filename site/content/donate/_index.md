@@ -1,6 +1,6 @@
 ---
 title: Donate
-image: /img/scouts.jpg
+image: /img/peanutbutter.jpg
 ---
 # Donate to the Pantry
 
