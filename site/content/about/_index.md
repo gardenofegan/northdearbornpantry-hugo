@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Us
 image: /img/inside-warehouse.jpg
 ---
 # Pantry Overview
