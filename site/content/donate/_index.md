@@ -8,7 +8,7 @@ Donating by check, please mail to:
 
 North Dearborn Pantry 2517 North Dearborn Road West Harrison, Indiana 47060
 
-Donating thru PayPal, please click below:
+Donating with PayPal, please click below:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 
