@@ -18,33 +18,32 @@ image: /img/scouts.jpg
 Food drives play an important role in North Dearborn Pantry’s mission to alleviate hunger in our area. Schools, businesses, youth groups, service organizations, theater and arts groups, places of worship, neighborhood groups, and groups of friends and families have all conducted successful food drives to benefit people at risk of hunger, and so can you!
 
 **Tips for a Successful Food Drive**
-**Plan Ahead:**
+**Plan Ahead**
 
-* Get other people, particularly senior management, administrators, organization officers, _teachers, friends and/or neighbors committed to the drive._ Choose a theme or name for your drive (for example: “Tons of Tuna,” “Oodles of Noodles,” “Halloween Trick or Trunk”).* Set a goal for how many pounds of food, how many cans or the dollar amount you will collect.
-
-- - -
-
-**Promote the Drive:**
-
-* Schedule a fun kick-off event. _Educate your group about the issue of hunger._ Decorate a container to hold donated food. _Place posters and flyers in highly visible places._ Distribute memos or send letters to parents, neighbors, area businesses, etc. _Include flyers with employee paychecks._ Set up a collection schedule to collect certain types of food on specific days or during _designated weeks._ Provide each person with a bag to fill with food.* Issue reminders throughout the drive.
+* Get other people, particularly senior management, administrators, organization officers, _teachers, friends and/or neighbors committed to the drive._ Choose a theme or name for your drive (for example: “Tons of Tuna,” “Oodles of Noodles,” “Halloween Trick or Trunk”).  Set a goal for how many pounds of food, how many cans or the dollar amount you will collect.
 
 - - -
 
-**Make it Fun:**
+**Promote the Drive**
 
-* Encourage friendly competition between departments, offices, classes, etc. _Challenge a rival company or school._ Conduct a raffle for prizes. _Offer incentives such as stickers, pins and office dress-down days._ Reward groups and individuals who collect the most food.
+* Schedule a fun kick-off event. _Educate your group about the issue of hunger._ Decorate a container to hold donated food. _Place posters and flyers in highly visible places._ Distribute memos or send letters to parents, neighbors, area businesses, etc. _Include flyers with employee paychecks._ Set up a collection schedule to collect certain types of food on specific days or during _designated weeks._ Provide each person with a bag to fill with food.  Issue reminders throughout the drive.
 
 - - -
 
-**Thank the Participants:**
+**Make it Fun**
+
+* Encourage friendly competition between departments, offices, classes, etc. _Challenge a rival company or school._ Conduct a raffle for prizes. _Offer incentives such as stickers, pins and office dress-down days._  Reward groups and individuals who collect the most food.
+
+- - -
+
+**Thank the Participants**
 
 * Certificates of appreciation. _Thank you cards or letters._ Throw a party to celebrate your successful food drive.
 
 - - -
 
-**What to Donate:**
-Please only collect non-perishable items.
+**What to Donate:**  Please only collect non-perishable items.
 
-**Food Items Most Needed:** 100% Fruit Juice (cans / bottles / boxes), canned vegetables & fruit, chunky soups & beef stew, gluten-free products, macaroni & cheese, jelly, shelf stable milk, rice / dry & canned beans, spaghetti & sauce, “sugar free,” “low sodium,” & “no salt” items, tuna & other canned meat.
+**Food Items Most Needed:** 100% Fruit Juice (cans / bottles / boxes), canned vegetables & fruit, chunky soups & beef stew, gluten-free products, macaroni & cheese, jelly, shelf stable milk, kids cereal, rice, dry & canned beans, spaghetti & sauce, “sugar free,” “low sodium” & “no salt” items, tuna & other canned meat.
 
 **Personal care items most needed:** toilet paper, paper plates, paper towels, shampoo, toothpaste and toothbrushes, diapers, detergent, deodorant, shaving cream, razors, towels, kitchen towels and hairbrushes.
