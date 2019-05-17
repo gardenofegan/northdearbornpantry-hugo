@@ -2,7 +2,7 @@
 title: Events
 events:
   - heading: Snappy Tomato Fundraiser
-    imageUrl: /img/sign1.jpg
+    imageUrl: /img/snappy-2-2-.jpg
     text: ' This ongoing fundraiser takes place the 2nd Wednesday of each month at Snappy Tomato in Bright. The pantry receives a percentage of sales and all tips.'
   - heading: 'Bunco! '
     imageUrl: /img/img_20180405_210913.jpg
