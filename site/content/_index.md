@@ -13,7 +13,7 @@ values:
     text: 'Dignity: Provide a positive environment for our patrons and volunteers.'
   - image: /img/warehouse3.jpg
     text: 'Stewardship: Manage and use our assets as our own.'
-  - image: /img/food4.jpg
+  - image: /img/peanutbutter.jpg
     text: 'Quality: Supply product as we would select for ourselves or homes.'
   - image: /img/food2.jpg
     text: 'Empower: Provide a "hand-up" for those that need and accept it.'
