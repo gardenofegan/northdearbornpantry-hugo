@@ -29,7 +29,7 @@ events:
       not-for-profit organizations. This event is generally held in May.  For
       more info contact https://brightareabusinesses.com/
   - heading: FreeStore FoodBank Hunger Walk & 5K
-    imageUrl: /img/1400.1111323649.custom.jpg
+    imageUrl: /img/61371004_2469188326459524_532408153216647168_n.jpg
     text: >-
       On Memorial Day, please join us in the Freestore Foodbank's Hunger Walk
       and 5K Run benefiting the North Dearborn Pantry. The race takes place in
