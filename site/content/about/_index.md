@@ -6,7 +6,7 @@ image: /img/inside-warehouse.jpg
 
 The North Dearborn Pantry is a not-for-profit corporation consisting of a Board of Directors (currently 11), a director and approximately 150 volunteers. Patrons of the Pantry are residents of North Dearborn County - Jackson, Kelso, Logan, Harrison, York and Miller Townships.
 
-The Pantry provides food and clothing for adults and children, holiday food distribution, "Giving Tree" program at Christmas, and Back to School backpacks.
+The Pantry provides food and clothing for adults and children, holiday food distribution, "Giving Tree" program at Christmas, summer kid's snack packs, and Back to School backpacks.
 
 Prior to 2005, Ann and Leroy Jeffries operated the Pantry out of their home on North Dearborn Rd. This was a personal Christ centered mission as well as a function of being a Logan,  Township Trustee.
 
