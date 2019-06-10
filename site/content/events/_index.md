@@ -12,8 +12,8 @@ events:
       friend or 2 and get ready to move between tables as you win or lose. 
       Tickets include hot and cold snacks, desserts, 2 drink tickets, and door
       prizes. Take a chance on some special themed raffle baskets for even more
-      fun.  Tickets can be purchased at Logan Supermart and L A Sweets or at the
-      door if not sold out in advance.
+      fun.  Tickets can be purchased prior to the event at Logan Supermart and L
+      A Sweets or at the door if not sold out in advance.
   - heading: Gobble Wobble 5K- Feeding the Hungry
     imageUrl: /img/d390027f-e1c4-4e7c-8c89-223262bf096f.jpg
     text: >-
