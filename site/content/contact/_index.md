@@ -1,5 +1,4 @@
 ---
 title: Contact Us
 ---
-We’d love to get in touch with you and hear your ideas and
-questions.  Please check general areas of interest and you will be contacted soon.
+Thank you for your interest in the North Dearborn Pantry. Please complete the form below and we will contact you as soon as possible.
