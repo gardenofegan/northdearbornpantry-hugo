@@ -2,7 +2,7 @@
 title: How to Help
 image: /img/scouts.jpg
 ---
-**Drivers Needed**    Drivers are needed for our box trucks.  We use these trucks to pick up goods that local businesses have generously donated - no CDL is needed to drive the small truck. We can use more CDL drivers for the large truck.
+**Drivers Needed**    Drivers are needed for our box trucks.  We use these trucks to pick up goods that local businesses have generously donated - no CDL is needed. We need people with experience driving large vehicles.
 
 **Sign up for Kroger Community Rewards**  -  Please go online to krogercommunityrewards.com and register your Kroger Plus card. Link it to the North Dearborn Pantry, Inc. with our NPO number 82532. Each time you use your Kroger Plus card, Kroger will donate to the Pantry and it doesn't cost you a dime. The bottom of your receipt will verify that you are linked to the North Dearborn Pantry, Inc. If you have trouble linking your card, please email us and we will help.
 
@@ -44,6 +44,6 @@ Food drives play an important role in North Dearborn Pantry’s mission to allev
 
 **What to Donate:**  Please only collect non-perishable items.
 
-**Food Items Most Needed:** 100% Fruit Juice (cans / bottles / boxes), canned vegetables & fruit, chunky soups & beef stew, gluten-free products, macaroni & cheese, jelly, shelf stable milk, kids cereal, rice, dry & canned beans, spaghetti & sauce, “sugar free,” “low sodium” & “no salt” items, tuna & other canned meat.
+**Food Items Most Needed:** 100% Fruit Juice (cans / bottles / boxes), canned vegetables & fruit, chunky soups & beef stew, macaroni & cheese, jelly, shelf stable milk, kids cereal, rice, dry & canned beans, spaghetti & sauce, “sugar free,” “low sodium” & “no salt” items, tuna & other canned meat.
 
 **Personal care items most needed:** toilet paper, paper plates, paper towels, shampoo, toothpaste and toothbrushes, diapers, detergent, deodorant, shaving cream, razors, towels, kitchen towels and hairbrushes.
