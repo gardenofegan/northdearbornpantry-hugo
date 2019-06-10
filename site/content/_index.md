@@ -1,5 +1,5 @@
 ---
-title: Our mission
+title: Our Mission
 subtitle: >-
   Provide food, clothing, and other services to the residents in need of
   northern Dearborn County, Indiana
