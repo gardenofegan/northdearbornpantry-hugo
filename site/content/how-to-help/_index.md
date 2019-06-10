@@ -2,6 +2,8 @@
 title: How to Help
 image: /img/scouts.jpg
 ---
+**There are many ways you can help support the North Dearborn Pantry.**
+
 **Drivers Needed**  -  Drivers are needed for our box trucks.  We use these trucks to pick up goods that local businesses have generously donated - no CDL is needed. We need people with experience driving large vehicles.
 
 **Monthly Volunteers** - SIgn up to work during normal Pantry hours helping distribute food to patrons, stocking shelves, and general operations.
