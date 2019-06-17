@@ -9,28 +9,21 @@
     <!-- Name -->
     <div>
       <fieldset>
-        <input type="text" name="name" id="name" placeholder="Name" class="w-100 mb2">
+        <input required type="text" name="name" id="name" placeholder="Name" class="w-100 mb2">
         <label for="name">Name</label>
       </fieldset>
     </div>
     <!-- Cell Phone -->
     <div>
       <fieldset>
-        <input type="text" name="cellPhone" id="cellPhone" placeholder="Cell Phone" class="w-100 mb2">
-        <label for="cellPhone">Name</label>
-      </fieldset>
-    </div>
-    <!-- Landline Phone -->
-    <div>
-      <fieldset>
-        <input type="text" name="landlinePhone" id="landlinePhone" placeholder="Landline Phone" class="w-100 mb2">
-        <label for="landlinePhone">Name</label>
+        <input required type="text" name="phone" id="phone" placeholder="Cell Phone or Landline Phone" class="w-100 mb2">
+        <label for="phone">Cell Phone or Landline Phone</label>
       </fieldset>
     </div>
     <!-- Email -->
     <div>
       <fieldset>
-        <input type="email" name="email" id="email" placeholder="Email" class="w-100 mb2">
+        <input required type="email" name="email" id="email" placeholder="Email" class="w-100 mb2">
         <label for="email">Email</label>
       </fieldset>
     </div>
@@ -44,10 +37,10 @@
         <input type="checkbox" name="truckDriverAssistant" /> Truck Driver Assistant
       </fieldset>
     </div>
-    <p>Let us know below if you have any special skills you would like to offer.</p>
+    <p>Let us know below if you have any special skills you would like to offer or have questions about the Pantry.</p>
         <!-- Message -->
     <fieldset>
-      <textarea name="message" placeholder="Your message" rows="8" cols="80" id="message" class="w-100"></textarea>
+      <textarea required name="message" placeholder="Your message" rows="8" cols="80" id="message" class="w-100"></textarea>
       <label for="message">Your message</label>
     </fieldset>
     
