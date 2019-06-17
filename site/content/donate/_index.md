@@ -23,3 +23,7 @@ Donating with PayPal, please click below:
 </form>
 
 Donations of food, clothing(seasonally appropriate), household products may be made any time during regular pantry hours.
+
+
+
+_We are a 501(3)c tax deductible charity. If requested, we will provide you a receipt for your donations_
