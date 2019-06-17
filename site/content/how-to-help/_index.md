@@ -8,9 +8,9 @@ image: /img/scouts.jpg
 
 **Monthly Volunteers** - SIgn up to work during normal Pantry hours helping distribute food to patrons, stocking shelves, and general operations.
 
-**Sign up for Kroger Community Rewards**  -  Please go online to krogercommunityrewards.com and register your Kroger Plus card. Link it to the North Dearborn Pantry, Inc. with our NPO number 82532. Each time you use your Kroger Plus card, Kroger will donate to the Pantry and it doesn't cost you a dime. The bottom of your receipt will verify that you are linked to the North Dearborn Pantry, Inc. If you have trouble linking your card, please email us and we will help.
+**Sign up for Kroger Community Rewards**  -  Please go online to [krogercommunityrewards.com](krogercommunityrewards.com) and register your Kroger Plus card. Link it to the North Dearborn Pantry, Inc. with our NPO number 82532. Each time you use your Kroger Plus card, Kroger will donate to the Pantry and it doesn't cost you a dime. The bottom of your receipt will verify that you are linked to the North Dearborn Pantry, Inc. If you have trouble linking your card, please email us and we will help.
 
-**Remember the Pantry when you use Amazon  -**  A few clicks and your account becomes AmazonSmile which allows Amazon to donate to us when you make purchases. It costs you nothing but a little time. Here is a link to us on Amazon Smile: smile.amazon.com/ch/36-4598281
+**Remember the Pantry when you use Amazon  -**  A few clicks and your account becomes AmazonSmile which allows Amazon to donate to us when you make purchases. It costs you nothing but a little time. Here is a link to us on Amazon Smile: [smile.amazon.com/ch/36-4598281](smile.amazon.com/ch/36-4598281)
 
 **Remke Caring Neighbor Program**  - With the Caring Neighbor program, sign-up and Remke will donate up to 2% to the North Dearborn Pantry for every purchase made when you use your Remke Rewards card. Here’s How!
 
