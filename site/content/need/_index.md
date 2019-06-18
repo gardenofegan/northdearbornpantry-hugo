@@ -8,7 +8,7 @@ You will be asked to provide your name, street address, township, home and cell 
 
 Be prepared to provide proof of residency in our service area, such as a current electric bill, and a picture ID. Our service area is limited to the portions of Jackson, Kelso, Logan, Harrison, Miller and York townships that lie within Dearborn County, Indiana.
 
-<strong>Our Hours are:</strong>
+<strong>Our Hours are:</strong><br/>
 Sunday 5:30pm-7:30pm<br/>
 Monday 9am-noon<br/>
 Tuesday 5:30pm-7:30pm<br/>
