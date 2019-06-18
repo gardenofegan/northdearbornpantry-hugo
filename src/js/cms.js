@@ -27,5 +27,6 @@ CMS.registerPreviewTemplate("events", EventsPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.registerPreviewTemplate("donate", GenericPreview);
 CMS.registerPreviewTemplate("about", GenericPreview);
+CMS.registerPreviewTemplate("need", GenericPreview);
 CMS.registerPreviewTemplate("how-to-help", GenericPreview);
 CMS.registerWidget("color", ColorControl);
