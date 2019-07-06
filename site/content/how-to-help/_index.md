@@ -6,7 +6,7 @@ image: /img/scouts.jpg
 
 **Drivers Needed**  -  Drivers are needed for our box trucks.  We use these trucks to pick up goods that local businesses have generously donated - no CDL is needed. We need people with experience driving large vehicles.
 
-**Monthly Volunteers** - SIgn up to work during normal Pantry hours helping distribute food to patrons, stocking shelves, and general operations.
+**Monthly Volunteers** - Sign up to work during normal Pantry hours helping distribute food to patrons, stocking shelves, and general operations.
 
 **Sign up for Kroger Community Rewards**  -  Please go online to [krogercommunityrewards.com](https://www.kroger.com/signin?redirectUrl=/account/communityrewards) and register your Kroger Plus card. Link it to the North Dearborn Pantry, Inc. with our NPO number 82532. Each time you use your Kroger Plus card, Kroger will donate to the Pantry and it doesn't cost you a dime. The bottom of your receipt will verify that you are linked to the North Dearborn Pantry, Inc. If you have trouble linking your card, please email us and we will help.
 
