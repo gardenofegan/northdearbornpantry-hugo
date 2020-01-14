@@ -7,7 +7,7 @@ events:
   - heading: 'Bunco! '
     imageUrl: /img/img_20180405_210913.jpg
     text: >-
-      September 7, 2019 at 7:00 p.m.  
+      September 26, 2020 at 7:00 p.m.  
 
       This "Ladies Only" event is held in the Fall at the VFW in Harrison, OH to
       benefit the Pantry's Thanksgiving food drive. No skill required.  Bring a
