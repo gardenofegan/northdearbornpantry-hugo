@@ -20,15 +20,17 @@ image: /img/scouts.jpg
 
 Follow these easy step:
 
-1 Sign in to your Remke Reward account. 
+1  Sign in to your Remke Reward account. 
 
-*2. Go to My Account in the top right corner of the page* 
+2 Go to My Account in the top right corner of the page 
 
-3. Choose North Dearborn Pantry, inc. from the drop down box toward the bottom of the page. 
+3  Choose North Dearborn Pantry, Inc. from the drop-down box toward the bottom of the page. 
 
 **Are you an extreme couponer?**     We would love to have you working for the Pantry. Donations accepted during regular business hours or drop off your coupons and our people will go to work.  We are a 501(3)c tax deductible charity, you will receive a receipt on request for your donations.
 
-**Organize a Food Drive!** Food drives play an important role in North Dearborn Pantry’s mission to alleviate hunger in our area. Schools, businesses, youth groups, service organizations, theater and arts groups, places of worship, neighborhood groups, and groups of friends and families have all conducted successful food drives to benefit people at risk of hunger, and so can you!
+**Organize a Food Drive!** 
+
+Food drives play an important role in North Dearborn Pantry’s mission to alleviate hunger in our area. Schools, businesses, youth groups, service organizations, theater and arts groups, places of worship, neighborhood groups, and groups of friends and families have all conducted successful food drives to benefit people at risk of hunger, and so can you!
 
 **Tips for a Successful Food Drive** **Plan Ahead**
 
