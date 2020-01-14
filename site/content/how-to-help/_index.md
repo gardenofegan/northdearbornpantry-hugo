@@ -38,31 +38,47 @@ Food drives play an important role in North Dearborn Pantry’s mission to allev
 
 **Plan Ahead**
 
-* Get other people, particularly senior management, administrators, organization officers, *teachers, friends and/or neighbors committed to the drive.* 
+\-Get other people, particularly senior management, administrators, organization officers, *teachers, friends and/or neighbors committed to the drive.* 
 
-  Choose a theme or name for your drive (for example: “Tons of Tuna,” “Oodles of Noodles,” “Halloween Trick or Trunk”).  Set a goal for how many pounds of food, how many cans or the dollar amount you will collect.
+\-Choose a theme or name for your drive (for example: “Tons of Tuna,” “Oodles of Noodles,” “Halloween Trick or Trunk”).  
 
-- - -
+\-Set a goal for how many pounds of food, how many cans or the dollar amount you will collect.
 
 **Promote the Drive**
 
-* Schedule a fun kick-off event. *Educate your group about the issue of hunger.* Decorate a container to hold donated food. *Place posters and flyers in highly visible places.* Distribute memos or send letters to parents, neighbors, area businesses, etc. *Include flyers with employee paychecks.* Set up a collection schedule to collect certain types of food on specific days or during *designated weeks.* Provide each person with a bag to fill with food.  Issue reminders throughout the drive.
+\-Schedule a fun kick-off event. 
 
-- - -
+*\-Educate your group about the issue of hunger.* 
+
+\-Decorate a container to hold donated food. 
+
+*\-Place posters and flyers in highly visible places.* 
+
+\-Distribute memos or send letters to parents, neighbors, area businesses, etc. *Include flyers with employee paychecks.* 
+
+\-Set up a collection schedule to collect certain types of food on specific days or during *designated weeks.* 
+
+\-Provide each person with a bag to fill with food.  Issue reminders throughout the drive.
 
 **Make it Fun**
 
-* Encourage friendly competition between departments, offices, classes, etc. *Challenge a rival company or school.* Conduct a raffle for prizes. *Offer incentives such as stickers, pins and office dress-down days.*  Reward groups and individuals who collect the most food.
+\-Encourage friendly competition between departments, offices, classes, etc. 
 
-- - -
+*\-Challenge a rival company or school.* Conduct a raffle for prizes. 
+
+*\-Offer incentives such as stickers, pins and office dress-down days.*  
+
+\-Reward groups and individuals who collect the most food.
 
 **Thank the Participants**
 
-* Certificates of appreciation. *Thank you cards or letters.* Throw a party to celebrate your successful food drive.
+\-Certificates of appreciation, thank you cards or letters. 
 
-- - -
+\-Throw a party to celebrate your successful food drive.
 
-**What to Donate:**  Please only collect non-perishable items.
+**What to Donate:**  
+
+Please only collect non-perishable items.
 
 **Food Items Most Needed:** 100% Fruit Juice (cans / bottles / boxes), canned vegetables & fruit, chunky soups & beef stew, macaroni & cheese, jelly, shelf stable milk, kids cereal, rice, dry & canned beans, spaghetti & sauce, “sugar free,” “low sodium” & “no salt” items, tuna & other canned meat.
 
