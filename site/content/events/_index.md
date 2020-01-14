@@ -35,6 +35,6 @@ events:
       and 5K Run benefiting the North Dearborn Pantry. The race takes place in
       downtown Cincinnati and is sure to be a fun race. And it will be even more
       fun if you race with us!  Register with our team and all money goes to the
-      Pantry.
+      North Dearborn Pantry.
 ---
 There are several events throughout the year that raise money for the North Dearborn Pantry.  This tab is a general timetable. Follow us on Facebook, Twitter, or Instagram for fast updates.
