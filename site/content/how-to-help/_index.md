@@ -20,7 +20,7 @@ image: /img/scouts.jpg
 
 Follow these easy step:
 
-.1 Sign in to your Remke Reward account. 
+1 Sign in to your Remke Reward account. 
 
 *2. Go to My Account in the top right corner of the page* 
 
