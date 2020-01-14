@@ -2,7 +2,7 @@
 title: Who We Are
 image: /img/inside-warehouse.jpg
 ---
-# Pantry Overview
+# About the Pantry
 
 The North Dearborn Pantry is a not-for-profit corporation consisting of a Board of Directors (currently 11), a director and approximately 150 volunteers. Patrons of the pantry are residents of North Dearborn County - Jackson, Kelso, Logan, Harrison, York and Miller Townships.
 
@@ -34,7 +34,11 @@ Our all-volunteer organization accomplished the following:
 
 \-Completed our on site warehouse to increase our own storage capacity and allow us to better store and efficiently distribute food to other area pantries. This could not have been accomplished without the generous support of the Dearborn Community Foundation, Rising Sun Regional Foundation, Civista Charitable Foundation, and private donations.
 
-\    History of the Pantry
+<!--StartFragment-->
+
+# History of the Pantry
+
+<!--EndFragment-->
 
 Prior to 2005, Ann and Leroy Jeffries operated the Pantry out of their home on North Dearborn Rd. This was a personal Christ centered mission as well as a function of being a Logan, Township Trustee.
 
