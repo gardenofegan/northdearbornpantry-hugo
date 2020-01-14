@@ -40,8 +40,8 @@ Our all-volunteer organization accomplished the following:
 
 <!--EndFragment-->
 
-Prior to 2005, Ann and Leroy Jeffries operated the Pantry out of their home on North Dearborn Rd. This was a personal Christ centered mission as well as a function of being a Logan, Township Trustee.
+Prior to 2005, Ann and Leroy Jeffries operated the pantry out of their home on North Dearborn Rd. This was a personal Christ centered mission as well as a function of Ann being a Logan, Township Trustee.
 
-By 2005, the Pantry had outgrown the Jeffries' home and an affiliation of local churches took over operations and the Pantry was moved into it's present home.
+By 2005, the pantry had outgrown the Jeffries' home and an affiliation of local churches took over operations and the pantry was moved into it's present home.
 
 A Board was formed in 2006 to explore incorporation, which was achieved in March of 2007. The newly formed North Dearborn Pantry, Inc. purchased the building in November of 2007.
