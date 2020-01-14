@@ -80,6 +80,10 @@ Food drives play an important role in North Dearborn Pantry’s mission to allev
 
 Please only collect non-perishable items.
 
-**Food Items Most Needed:** 100% Fruit Juice (cans / bottles / boxes), canned vegetables & fruit, chunky soups & beef stew, macaroni & cheese, jelly, shelf stable milk, kids cereal, rice, dry & canned beans, spaghetti & sauce, “sugar free,” “low sodium” & “no salt” items, tuna & other canned meat.
+**Food Items Most Needed:** 
 
-**Personal care items most needed:** toilet paper, paper plates, paper towels, shampoo, toothpaste and toothbrushes, diapers, detergent, deodorant, shaving cream, razors, towels, kitchen towels and hairbrushes.
+100% Fruit Juice (cans / bottles / boxes), canned vegetables & fruit, chunky soups & beef stew, macaroni & cheese, jelly, shelf stable milk, kids cereal, rice, dry & canned beans, spaghetti & sauce, “sugar free,” “low sodium” & “no salt” items, tuna & other canned meat.
+
+**Personal care items most needed:** 
+
+toilet paper, paper plates, paper towels, shampoo, toothpaste and toothbrushes, diapers, detergent, deodorant, shaving cream, razors, towels, kitchen towels and hairbrushes.
