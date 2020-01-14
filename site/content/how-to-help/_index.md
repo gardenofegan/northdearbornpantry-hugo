@@ -4,9 +4,9 @@ image: /img/scouts.jpg
 ---
 **There are many ways you can help support the North Dearborn Pantry.**
 
-**Volunteer!**
+**Volunteer Positions:**
 
-**Drivers Needed**  -  Drivers are needed for our box trucks.  We use these trucks to pick up goods that local businesses have generously donated - no CDL is needed. We need people with experience driving large vehicles.
+**Box Truck Driver**  -  As a box truck driver you will go to local businesses have generously donated to the pantry. No CDL is required.
 
 **Monthly Volunteers** - Sign up to work during normal Pantry hours helping distribute food to patrons, stocking shelves, and general operations.
 
@@ -26,15 +26,21 @@ Follow these easy step:
 
 3  Choose North Dearborn Pantry, Inc. from the drop-down box toward the bottom of the page. 
 
-**Are you an extreme couponer?**     We would love to have you working for the Pantry. Donations accepted during regular business hours or drop off your coupons and our people will go to work.  We are a 501(3)c tax deductible charity, you will receive a receipt on request for your donations.
+**Coupons:**
+
+If you are an extreme couponer, we would love to have your help. Either shop with your coupons and drop off donations or drop off your coupons and we'll do the shopping!.  We are a 501(3)c tax deductible charity, you will receive a receipt on request for your donations.
 
 **Organize a Food Drive!** 
 
 Food drives play an important role in North Dearborn Pantry’s mission to alleviate hunger in our area. Schools, businesses, youth groups, service organizations, theater and arts groups, places of worship, neighborhood groups, and groups of friends and families have all conducted successful food drives to benefit people at risk of hunger, and so can you!
 
-**Tips for a Successful Food Drive** **Plan Ahead**
+**Tips for a Successful Food Drive** 
 
-* Get other people, particularly senior management, administrators, organization officers, *teachers, friends and/or neighbors committed to the drive.* Choose a theme or name for your drive (for example: “Tons of Tuna,” “Oodles of Noodles,” “Halloween Trick or Trunk”).  Set a goal for how many pounds of food, how many cans or the dollar amount you will collect.
+**Plan Ahead**
+
+* Get other people, particularly senior management, administrators, organization officers, *teachers, friends and/or neighbors committed to the drive.* 
+
+  Choose a theme or name for your drive (for example: “Tons of Tuna,” “Oodles of Noodles,” “Halloween Trick or Trunk”).  Set a goal for how many pounds of food, how many cans or the dollar amount you will collect.
 
 - - -
 
