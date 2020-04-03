@@ -17,7 +17,7 @@ events:
       fun.  Tickets can be purchased prior to the event at Logan Supermart and L
       A Sweets or at the door if not sold out in advance.
   - heading: Gobble Wobble 5K- Feeding the Hungry
-    imageUrl: /img/d390027f-e1c4-4e7c-8c89-223262bf096f.jpg
+    imageUrl: img/2019 ND Food Pantry.jpg
     text: >-
       All Saints Parish generously coordinates this annual run/walk for the
       Sunman & North Dearborn Food Pantries on Thanksgiving morning. For more
