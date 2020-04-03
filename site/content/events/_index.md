@@ -31,10 +31,8 @@ events:
   - heading: FreeStore FoodBank Hunger Walk & 5K
     imageUrl: /img/61371004_2469188326459524_532408153216647168_n.jpg
     text: >-
-      On Memorial Day, please join us in the Freestore Foodbank's Hunger Walk
-      and 5K Run benefiting the North Dearborn Pantry. The race takes place in
-      downtown Cincinnati and is sure to be a fun race. And it will be even more
-      fun if you race with us!  Register with our team and all money goes to the
-      North Dearborn Pantry.
+      The Freestore Foodbank's Hunger Walk and 5K Run held on Memorial Day in
+      downtown Cincinnati and it is always a lot of fun!  Register with our team
+      and all money raised benefits the North Dearborn Pantry.
 ---
 There are several events throughout the year that raise money for the North Dearborn Pantry.  This tab is a general timetable. Follow us on Facebook, Twitter, or Instagram for fast updates.
