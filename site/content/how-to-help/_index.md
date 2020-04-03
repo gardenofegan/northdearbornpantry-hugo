@@ -6,13 +6,13 @@ image: /img/scouts.jpg
 
 **Volunteer Positions:**
 
-**Box Truck Driver**  -  As a box truck driver you will go to local businesses have generously donated to the pantry. No CDL is required.
+**Box Truck Driver**  -  As a box truck driver, you pick up product at local businesses that have generously donated to the pantry. No CDL is required.
 
-**Monthly Volunteers** - Sign up to work during normal Pantry hours helping distribute food to patrons, stocking shelves, and general operations.
+**Monthly Volunteers** - Sign-up to work during normal Pantry hours and help distribute food to patrons, stock shelves, and help with general operations.
 
 **Donate Through Rewards Programs at No Cost to You!**
 
-**Kroger Community Rewards**  -  Each time you use your Kroger Plus card, Kroger will donate to the Pantry! Go online to [krogercommunityrewards.com](https://www.kroger.com/signin?redirectUrl=/account/communityrewards) and register your Kroger Plus card. Link it to the North Dearborn Pantry, Inc. with NPO number 82532.  After you register your rewards card, check the bottom of your receipt will verify that you are linked to the North Dearborn Pantry, Inc. 
+**Kroger Community Rewards**  -  Each time you use your Kroger Plus card, Kroger will donate to the Pantry! Go online to [krogercommunityrewards.com](https://www.kroger.com/signin?redirectUrl=/account/communityrewards) and register your Kroger Plus card. Link it to the North Dearborn Pantry, Inc. with NPO number 82532.  After you register your rewards card, check the bottom of your receipt to verify that you are linked to the North Dearborn Pantry, Inc. 
 
  **AmazonSmile  -**  Register your Amazon account for AmazonSmile and the pantry will receive a donation each time you shop! Visit [smile.amazon.com/ch/36-4598281](https://smile.amazon.com/ch/36-4598281) for more details and to sign up.
 
@@ -28,7 +28,7 @@ Follow these easy step:
 
 **Coupons:**
 
-If you are an extreme couponer, we would love to have your help. Either shop with your coupons and drop off donations or drop off your coupons and we'll do the shopping!.  We are a 501(3)c tax deductible charity, you will receive a receipt on request for your donations.
+If you are an extreme couponer, we would love to have your help. Either shop with your coupons and drop off donations or drop off your coupons and we'll do the shopping!  We are a 501(3)c tax deduction charity.  You will receive a receipt upon request for your donations.
 
 **Organize a Food Drive!** 
 
@@ -86,4 +86,4 @@ Please only collect non-perishable items.
 
 **Personal care items most needed:** 
 
-toilet paper, paper plates, paper towels, shampoo, toothpaste and toothbrushes, diapers, detergent, deodorant, shaving cream, razors, towels, kitchen towels and hairbrushes.
+Toilet paper, paper plates, paper towels, shampoo, toothpaste and toothbrushes, diapers, detergent, deodorant, shaving cream, razors, towels, kitchen towels and hairbrushes.
