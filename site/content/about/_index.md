@@ -40,7 +40,7 @@ Our all-volunteer organization accomplished the following:
 
 <!--EndFragment-->
 
-Prior to 2005, Ann and Leroy Jeffries operated the pantry out of their home on North Dearborn Rd. This was a personal Christ centered mission as well as a function of Ann being a Logan, Township Trustee.
+Prior to 2005, Ann and Leroy Jeffries operated the pantry out of their home on North Dearborn Rd. This was a personal Christ-centered mission as well as a function of Ann being a Logan, Township Trustee.
 
 By 2005, the pantry had outgrown the Jeffries' home and an affiliation of local churches took over operations and the pantry was moved into it's present home.
 
