@@ -21,7 +21,7 @@ events:
     text: >-
       All Saints Parish generously coordinates this annual run/walk for the
       Sunman & North Dearborn Food Pantries on Thanksgiving morning. For more
-      information, visit their website at http://gobblewobble5k.webs.com/
+      information, visit their website at https://gobblewobble5k.webs.com/
   - heading: BABA Golf Outing at HVL Golf Club
     imageUrl: /img/baba-donation-to-dearborn-pantry.jpg
     text: >
