@@ -10,6 +10,28 @@ The pantry provides food and clothing for adults and children, holiday food dist
 
 Our all-volunteer organization accomplished the following: 
 
+<!--StartFragment-->
+
+2017:
+
+\-Completed our on site warehouse to increase our own storage capacity and allow us to better store and efficiently distribute food to other area pantries. This could not have been accomplished without the generous support of the Dearborn Community Foundation, Rising Sun Regional Foundation, Civista Charitable Foundation, and private donations.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+2012:
+
+\-Developed and started implementing a 3-Year strategic plan.
+
+\-Relocated external storage facilities to increase capacity and access
+
+\-Expanded the perishable food storage for the bulk food program which enabled us to obtain new suppliers.
+
+\-Began construction of a website for community outreach.
+
+<!--EndFragment-->
+
 2011: 
 
 \-Distributed 54,766 bags of food. 
@@ -20,19 +42,9 @@ Our all-volunteer organization accomplished the following:
 
 \-Established a senior outreach program with the local senior community. 
 
-2012:
 
-\-Developed and started implementing a 3-Year strategic plan.  
 
-\-Relocated external storage facilities to increase capacity and access
 
-\-Expanded the perishable food storage for the bulk food program which enabled us to obtain new suppliers.
-
-\-Began construction of a website for community outreach.
-
-2017:
-
-\-Completed our on site warehouse to increase our own storage capacity and allow us to better store and efficiently distribute food to other area pantries. This could not have been accomplished without the generous support of the Dearborn Community Foundation, Rising Sun Regional Foundation, Civista Charitable Foundation, and private donations.
 
 <!--StartFragment-->
 
