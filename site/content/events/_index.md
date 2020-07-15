@@ -7,8 +7,6 @@ events:
   - heading: 'Bunco! '
     imageUrl: /img/img_20180405_210913.jpg
     text: >-
-      TBD - Spring 2021
-
       Pantry friends and supporters, we have made the difficult decision to postpone our BUNCO fundraiser until Spring 2021. We want to give you our usual wonderful, social  experience, so stay tuned for a new date.
   - heading: Gobble Wobble 5K- Feeding the Hungry
     imageUrl: /img/2019-ND-Food-Pantry.jpg
