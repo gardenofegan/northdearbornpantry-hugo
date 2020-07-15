@@ -7,15 +7,9 @@ events:
   - heading: 'Bunco! '
     imageUrl: /img/img_20180405_210913.jpg
     text: >-
-      September 26, 2020 at 7:00 p.m.  
+      TBD - Spring 2021
 
-      This "Ladies Only" event is held in the Fall at the VFW in Harrison, OH to
-      benefit the Pantry's Thanksgiving food drive. No skill required.  Bring a
-      friend or 2 and get ready to move between tables as you win or lose. 
-      Tickets include hot and cold snacks, desserts, 2 drink tickets, and door
-      prizes. Take a chance on some special themed raffle baskets for even more
-      fun.  Tickets can be purchased prior to the event at Logan Supermart and L
-      A Sweets or at the door if not sold out in advance.
+      Pantry friends and supporters, we have made the difficult decision to postpone our BUNCO fundraiser until Spring 2021. We want to give you our usual wonderful, social  experience, so stay tuned for a new date.
   - heading: Gobble Wobble 5K- Feeding the Hungry
     imageUrl: /img/2019-ND-Food-Pantry.jpg
     text: >-
