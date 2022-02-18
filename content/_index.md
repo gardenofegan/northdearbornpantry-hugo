@@ -8,7 +8,7 @@ values:
   - image: /bob.jpg
     title: 'Compassion'
     text: 'Patrons are our first priority.'
-  - image: _20180916_172807.jpg
+  - image: img_20180916_172807.jpg
     title: 'Respect'
     text: 'For patrons and their situation of need.'
   - image: /sdschelp-1-.jpg
