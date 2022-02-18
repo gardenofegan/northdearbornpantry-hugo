@@ -1,0 +1,13 @@
+<div class="bg-off-white pv2">
+  <div class="ph3 mw7 center">
+    <div class="flex flex-wrap mhn2-ns mb3">
+      {{ range .values }}
+      <div class="ph2-ns w-25-ns cms">
+        <img src="{{.image}}" alt="" class="center db mb3" style="max-width: 100%; height: auto;">
+        <h6>{{.title}}</h6>
+        <p>{{.text}}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>

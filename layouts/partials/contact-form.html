@@ -1,0 +1,57 @@
+<!-- Contact -->
+<div class="mb4">
+
+  <form name="contact" method="POST" netlify-honeypot="main-field" data-netlify-recaptcha="true" data-netlify="true">
+    <p class="hidden">
+      <label>Main field: <input name="main-field" /></label>
+    </p>
+
+    <!-- Name -->
+    <div>
+      <fieldset>
+        <input required type="text" name="name" id="name" placeholder="Name" class="w-100 mb2">
+        <label for="name">Name</label>
+      </fieldset>
+    </div>
+    <!-- Cell Phone -->
+    <div>
+      <fieldset>
+        <input required type="text" name="phone" id="phone" placeholder="Cell Phone" class="w-100 mb2">
+        <label for="phone">Cell Phone</label>
+      </fieldset>
+    </div>
+    <!-- Email -->
+    <div>
+      <fieldset>
+        <input required type="email" name="email" id="email" placeholder="Email" class="w-100 mb2">
+        <label for="email">Email</label>
+      </fieldset>
+    </div>
+  
+
+    <div class="ph1-l w-50-l mb2">
+      <fieldset>
+        <input type="checkbox" name="donateItems" /> Sorting Donated Items<br/>
+        <input type="checkbox" name="volunteerDuringPantryHours" /> Volunteer During Pantry Hours<br/>
+        <input type="checkbox" name="truckDriver" /> Truck Driver<br/>
+        <input type="checkbox" name="truckDriverAssistant" /> Truck Driver Assistant<br/>
+        <input type="checkbox" name="Other" /> Other
+      </fieldset>
+    </div>
+    <p>Let us know below if you have any special skills you would like to offer or have questions about the Pantry.</p>
+        <!-- Message -->
+    <fieldset>
+      <textarea required name="message" placeholder="Your message" rows="8" cols="80" id="message" class="w-100"></textarea>
+      <label for="message">Your message</label>
+    </fieldset>
+    
+    <div>
+      <div data-netlify-recaptcha="true"></div>
+    </div>
+        <!-- Button -->
+    <div class="tc">
+      <br/><br/>
+      <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
+    </div>
+  </form>
+</div>

@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+<div class="mw6 center ph3 pv4">
+  <div class="cms mw6">
+    {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+    {{ .Content }}
+  </div>
+</div>
+
+{{ end }}
